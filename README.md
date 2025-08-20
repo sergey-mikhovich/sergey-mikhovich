@@ -1,5 +1,5 @@
-<h1 align="center" border-bottom="none">👋 Hi there. I'm Sergey Mikhovich</h1>
-<h2 align="center" border-bottom="none">💻 Frontend Developer</h2>
+<h1 align="center" style="border-bottom: none;">👋 Hi there. I'm Sergey Mikhovich</h1>
+<h2 align="center" style="border-bottom: none;">💻 Frontend Developer</h2>
 
 <p align="center">
   <img align="center" src="./developer.png" width="400" alt="Developer"/>
