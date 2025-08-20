@@ -3,7 +3,7 @@
 <h3 align="center">💻 Frontend Developer specializing in <strong>React</strong></h3>
 
 <p align="center">
-  <img src="https://lottie.host/embed/d743087b-0a9d-4cfd-a311-be640f9cdd43/TVhX9GJBha.lottie" />
+  <img align="center" src="./developer.png" alt="Developer"/>
 </p>
 
 Here are some ideas to get you started:
