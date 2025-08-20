@@ -1,7 +1,9 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there! I am Sergey Mikhovich</h1>
+<h3 align="center">💻 Frontend Developer specializing in <strong>React</strong></h3>
 
-<!--
-**sergey-mikhovich/sergey-mikhovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./developer_skills.gif" />
+</p>
 
 Here are some ideas to get you started:
 
