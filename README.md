@@ -43,5 +43,5 @@ const sergey = new Developer();
 
 <h3>🤝 Connect with me 🤝</h3>
 
-<p align="center"> 
+<p> 
    <a href="mailto:sergey.mikhovich98@gmail.com"> <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email Me" /> </a> &nbsp; <a href="https://www.linkedin.com/in/sergey-mikhovich" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> </p>
