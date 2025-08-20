@@ -10,11 +10,24 @@
 ### 🪪 About Me 🪪
 
 ```js
-const sergey = {
-    name: "Sergey Mikhovich",
-    role: "Frontend Developer",
-    skills: "React, Next.js, JavaScript, TypeScript, Redux Toolkit"
-};
+class Developer {
+  constructor() {
+    this.name = "Sergey Mikhovich";
+    this.role = "Frontend Developer";
+    this.coreTech = "React 🔥";
+  }
+
+  skills = ["React", "JavaScript", "TypeScript", "Next.js", "Redux Toolkit", "CSS3", "HTML5"];
+  tools = ["WebStorm", "Git", "Figma"];
+  funFact = "I once coded a full app during a 24-hour hackathon! 🏆";
+  socials = {
+    email: "sergey.mikhovich98@gmail.com",
+    linkedin: "https://www.linkedin.com/in/sergey-mikhovich"
+  };
+  mission = "Transforming ideas into interactive web experiences! 👨‍💻🌐";
+}
+
+const sergey = new Developer();
 ```
 
 ---
