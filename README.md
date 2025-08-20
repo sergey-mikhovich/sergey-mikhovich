@@ -20,7 +20,7 @@ const sergey = {
 ### 🚀 Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,firebase,bootstrap,html,css,vscode,figma,git,js,postman,cs,php,mysql,github,gitlab,vscode,visualstudio,windows" 
+    <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,styledcomponents,sass,postman,postgres,vite,html,css,figma,git,github,docker" 
  </p>
 
 Here are some ideas to get you started:
