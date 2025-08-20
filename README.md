@@ -1,8 +1,9 @@
-<h1 align="center">👋 Hi there! I am Sergey Mikhovich</h1>
+<h1 align="center">👋 Hi there</h1>
+<h1 align="center">I'm Sergey Mikhovich</h1>
 <h3 align="center">💻 Frontend Developer specializing in <strong>React</strong></h3>
 
 <p align="center">
-  <img src="./developer_skills.gif" />
+  <img src="https://lottie.host/embed/d743087b-0a9d-4cfd-a311-be640f9cdd43/TVhX9GJBha.lottie" />
 </p>
 
 Here are some ideas to get you started:
