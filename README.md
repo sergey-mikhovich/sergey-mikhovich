@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="center">🪪 About Me 🪪</h3>
+<h3>🪪 About Me 🪪</h3>
 
 ```js
 class Developer {
@@ -32,17 +32,17 @@ const sergey = new Developer();
 
 ---
 
-<h3 align="center">🚀 Tools 🚀</h3>
+<h3>🚀 Tools 🚀</h3>
 
-<p align="center">
+<p>
     <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,styledcomponents,sass,postman" />
     <img src="https://skillicons.dev/icons?i=postgres,vite,html,css,figma,git,github,docker" />
  </p>
 
  ---
 
-<h3 align="center">🤝 Connect with me 🤝</h3>
+<h3>🤝 Connect with me 🤝</h3>
 
- <p align="center">
+ <p>
    [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-mikhovich/)
  </p>
