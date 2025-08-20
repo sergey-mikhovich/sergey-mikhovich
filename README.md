@@ -5,8 +5,6 @@
   <img align="center" src="./developer.png" width="400" alt="Developer"/>
 </p>
 
-<hr/>
-
 <h3 align="center">🪪 About Me 🪪</h3>
 
 ```js
@@ -30,16 +28,12 @@ class Developer {
 const sergey = new Developer();
 ```
 
-<hr/>
-
 <h3 align="center">🚀 Tools 🚀</h3>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,styledcomponents,sass,postman" />
     <img src="https://skillicons.dev/icons?i=postgres,vite,html,css,figma,git,github,docker" />
  </p>
-
-<hr/>
 
 <h3 align="center">🤝 Connect with me 🤝</h3>
 
