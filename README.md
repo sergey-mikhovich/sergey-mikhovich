@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi there. I'm Sergey Mikhovich</h1>
-<h3 align="center">💻 Frontend Developer specializing in <strong>React</strong></h3>
+<h3 align="center">💻 Frontend Developer specializing in React</h3>
 
 <p align="center">
-  <img align="center" src="./developer.png" width="200" alt="Developer"/>
+  <img align="center" src="./developer.png" width="400" alt="Developer"/>
 </p>
 
 Here are some ideas to get you started:
