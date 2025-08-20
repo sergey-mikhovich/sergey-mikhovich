@@ -7,7 +7,7 @@
 
 ---
 
-🪪 About Me
+### 🪪 About Me
 
 ```js
 const sergey = {
@@ -17,7 +17,7 @@ const sergey = {
 };
 ```
 
-🚀 Tools
+### 🚀 Tools
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,firebase,bootstrap,html,css,vscode,figma,git,js,postman,cs,php,mysql,github,gitlab,vscode,visualstudio,windows" 
