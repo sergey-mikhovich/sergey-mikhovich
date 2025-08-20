@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there. I'm Sergey Mikhovich</h1>
-<h3 align="center">💻 Frontend Developer</h3>
+<h2 align="center">💻 Frontend Developer</h2>
 
 <p align="center">
   <img align="center" src="./developer.png" width="400" alt="Developer"/>
@@ -19,7 +19,7 @@ class Developer {
 
   skills = ["React", "JavaScript", "TypeScript", "Next.js", "Redux Toolkit", "CSS3", "HTML5"];
   tools = ["WebStorm", "Git", "Figma"];
-  funFact = "I once coded a full app during a 24-hour hackathon! 🏆";
+  funFact = "I once coded for 24-hours! 😁";
   socials = {
     email: "sergey.mikhovich98@gmail.com",
     linkedin: "https://www.linkedin.com/in/sergey-mikhovich"
