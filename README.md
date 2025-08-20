@@ -7,35 +7,29 @@
 
 ---
 
-### 🪪 About Me
+### 🪪 About Me 🪪
 
 ```js
 const sergey = {
     name: "Sergey Mikhovich",
-    
-    funFact: "I can debug faster with a coffee in hand!",
+    role: "Frontend Developer",
+    skills: "React, Next.js, JavaScript, TypeScript, Redux Toolkit"
 };
 ```
 
 ---
 
-### 🚀 Tools
+### 🚀 Tools 🚀
 
-<p align="center">
+<p>
     <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,styledcomponents,sass,postman" />
     <img src="https://skillicons.dev/icons?i=postgres,vite,html,css,figma,git,github,docker" />
  </p>
 
  ---
 
-Here are some ideas to get you started:
+ ### 🤝 Connect with me 🤝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <p>
+   [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-mikhovich/)
+ </p>
