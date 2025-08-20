@@ -17,12 +17,16 @@ const sergey = {
 };
 ```
 
+---
+
 ### 🚀 Tools
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,styledcomponents,sass,postman" />
     <img src="https://skillicons.dev/icons?i=postgres,vite,html,css,figma,git,github,docker" />
  </p>
+
+ ---
 
 Here are some ideas to get you started:
 
